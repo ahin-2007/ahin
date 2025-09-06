@@ -1,0 +1,86 @@
+.nav {
+    color: white;
+    background-color: black
+}
+
+.nav h1,
+p {
+    text-align: center;
+
+
+}
+
+.nav h1 {
+    padding-top: 15px;
+}
+
+.nav p {
+    padding-bottom: 15px;
+    color: rgb(133, 141, 149);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.pro {
+    padding-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.duct {
+
+    border: 2px solid black;
+    height: 340px;
+    width: 150px;
+    margin: 2px;
+    border-radius: 4px;
+
+
+
+}
+
+.duct img {
+    height: 250px;
+    width: 150px;
+    border-radius: 5px;
+    align-self: center;
+
+}
+
+.but{
+
+    display: flex;
+    margin-top: 10px;
+    padding: 4px;
+    background-color: black;
+    color: white;
+
+    justify-self: center;
+
+
+}
+.ton{
+    height:100%;
+    width: 100%;
+    background-color: rgb(106, 255, 106);
+    height: 25px;
+    border: none;
+    border-radius: 5px;
+
+}
+.contact{
+    background-color: black;
+    color: aliceblue;
+    height: 150px;
+    width: 100%;
+    margin-top: 10px;
+    justify-content: center;
+    display: flex;
+}
+.table{
+    margin-top: 20px;
+}
